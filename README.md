@@ -1,0 +1,2 @@
+# Traffic-Flow-Measurement-Deep-Learning
+In this project we use deep neural networks and image processing algorithms such as Faster R-CNN and YOLO for detecting vehicles from aerial imagery. After we trained our neural network, we have used DeepSort algorithm for tracking vehicles and after that we used Support Vector Machine (SVM) algorithm for separating road lines from each other for further use in national AE project that measures traffic flow through monitoring cameras installed at the junctions in the Tehran city in Iran.
