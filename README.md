@@ -6,6 +6,7 @@ In this project we use deep neural networks and image processing algorithms such
 This project is developed in 4 stages. I have used tensorflow framework and YOLOv4 for developing car detection applcation
 
 **Note: The uploaded codes are not modular yet and they are only for testing.**
+
 **Note: This project have been uploaded for interviewing with Prof. Liberatore.**
 
 ## Requirements
