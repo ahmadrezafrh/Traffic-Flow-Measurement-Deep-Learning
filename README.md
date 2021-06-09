@@ -6,6 +6,7 @@ In this project we use deep neural networks and image processing algorithms such
 This project is developed in 4 stages. I have used tensorflow framework and YOLOv4 for developing car detection applcation
 
 **Note: The uploaded codes are not modular yet and they are only for testing.**
+**Note: This project have been uploaded for interviewing with Prof. Liberatore.**
 
 ## Requirements
 on Ubuntu 20.04 :
@@ -26,7 +27,7 @@ For tracking cars we use this command on Ubuntu Terminal:
 
 We have determine specific arguments defined in each code. After running this code it will create a table of different features in cars in 'data.pkl' file. It is a dictionary that contains location of every cars in every frames.
 
-### Demo of Object Tracker on Cars
+### Demo of Tracking Cars
 
 <p align="center"><img src="data/helpers/tracking.gif"\></p>
 
