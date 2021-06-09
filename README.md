@@ -34,7 +34,7 @@ We have determine specific arguments defined in each code. After running this co
 
 ## Stage 2 : clustering lines with features extracted in the first stage
 
-In this stage we will use features extracted in the first stage to cluster all cars. This method is a semi-supervised algorithm. We only determine the number of clusters and it will use the features below to cluster cars in different cars:
+In this stage we will use features extracted in the first stage to cluster all cars. This method is a semi-supervised algorithm. We only determine the number of clusters and it will use the features below to cluster cars in different frames:
 
 1. Horizonal position of cars
 
