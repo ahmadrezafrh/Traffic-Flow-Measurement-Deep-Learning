@@ -62,7 +62,7 @@ So, we had fixed many errors. Like the stage two, we will save our model as a pi
 
 `python3 line_classification.py`
 
-## Stage 4 : Running a second-to-second video analysis
+## Stage 4 : Running a second-by-second video analysis
 
 In this stage we use all four models extracted above for visualising a second-to-second video analysing application. For running this code we have to use:
 
