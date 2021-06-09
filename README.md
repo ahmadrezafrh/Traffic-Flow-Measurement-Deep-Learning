@@ -11,7 +11,9 @@ This project is developed in 4 stages. I have used tensorflow framework and YOLO
 
 ## Requirements
 on Ubuntu 20.04 :
+
 `pip3 install -r requirements.txt`
+
 `pip3 install -r requirements.txt`
     
 ## Stage 1 : detecting and tracking cars from aerial images
