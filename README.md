@@ -7,8 +7,6 @@ This project is developed in 4 stages. I have used tensorflow framework and YOLO
 
 **Note: The uploaded codes are not modular yet and they are only for testing.**
 
-**Note: This project have been uploaded for interviewing with Prof. Liberatore.**
-
 ## Requirements
 on Ubuntu 20.04 :
 
